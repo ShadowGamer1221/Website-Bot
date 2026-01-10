@@ -164,7 +164,7 @@ If you found this template helpful, consider supporting me:
     </a>
   </div>
   <div>
-    <a href="https://tether.to" title="USDT TRC20 Wallet">
+    <a href="https://github.com/hadi-4100/Discord-bot-website-template/blob/Main/src/img/usdt_wallet.png" title="USDT TRC20 Wallet">
       <img src="./src/img/usdt_wallet.png" alt="USDT TRC20" width="64" height="64" style="border-radius: 8px;">
     </a>
   </div>

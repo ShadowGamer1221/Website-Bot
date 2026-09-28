@@ -4,6 +4,18 @@ A **modern, responsive, and beautifully designed** website template for Discord 
 
 Perfect for Discord bot creators who want a professional, fast-loading website to showcase their bot.
 
+<br>
+<br>
+
+## ❤️ **Support Me**
+If you're feeling generous, you can support me financially by clicking the button below. Every contribution is truly appreciated!  
+
+<p align="center">
+  <a href="https://nowpayments.io/donation/Hadi4100">
+    <img src="https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-red?style=for-the-badge">
+  </a>
+</p>
+
 ---
 
 ## ✨ What's New in v3?
@@ -150,31 +162,6 @@ You're free to use, modify, and distribute this template for your Discord bot!
 ## 👨‍💻 Author
 
 **[Hadi-4100](https://github.com/Hadi-4100)** - Discord Bot Website Template Creator
-
----
-
-## ❤️ Support Me
-
-If you found this template helpful, consider supporting me:
-
-<p align="center">
-  <div style="margin-bottom: 10px;">
-    <a href="https://github.com/Hadi-4100">
-      <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub Follow">
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/hadi-4100/Discord-bot-website-template/blob/Main/src/img/usdt_wallet.png" title="USDT TRC20 Wallet">
-      <img src="./src/img/usdt_wallet.png" alt="USDT TRC20" width="64" height="64" style="border-radius: 8px;">
-    </a>
-  </div>
-</p>
-
-### 🪙 USDT TRC20 Wallet Address
-
-```
-TTNRziDVpYoQKoP9SHR7cmYQ984GcYm8ZU
-```
 
 ---
 
